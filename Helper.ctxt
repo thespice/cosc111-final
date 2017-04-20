@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=value\ mode
+comment0.target=double\ Converter(double,\ int)
+comment0.text=\n\ Converts\ from\ one\ unit\ to\ another,\ depending\ on\ the\ mode.\n\ For\ mode\ 1,\ converts\ kilometeres\ to\ miles\n\ For\ mode\ 2,\ converts\ miles\ to\ kilometers\n
+numComments=1
